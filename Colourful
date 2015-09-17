@@ -1,6 +1,6 @@
 #StylesheetColorful
 body {
     background-image: url("http://i.imgur.com/skLo0OG.png");
-    background-color: #cccccc;
+    background-color: #AA8F39;
 }
 
