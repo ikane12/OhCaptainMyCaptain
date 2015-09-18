@@ -4,3 +4,6 @@ body {
     background-color: #AA8F39;
 }
 
+table{
+    background-color: #AB8F39;
+}
