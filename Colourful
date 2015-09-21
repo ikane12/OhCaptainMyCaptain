@@ -2,9 +2,13 @@
 body {
     background-image: url("http://i.imgur.com/skLo0OG.png");
     background-color: #AA8F39;
-    font-family: cursive;
 }
 
 table{
     background-color: #AB8F39;
+}
+
+
+p{
+    font-family: cursive;
 }
